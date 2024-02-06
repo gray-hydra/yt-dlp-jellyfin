@@ -1,5 +1,5 @@
 # yt-dlp-jellyfin
-Download youtube videos and self-host locally them with jellyfin
+Download youtube videos and self-host them locally with jellyfin
 
 ### Pre-requisites:
 * Links to youtube channel(s)
